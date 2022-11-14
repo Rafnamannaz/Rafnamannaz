@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rafnamannaz
+- 👋 Hi, I’m @Rafnamannaz 
 - 👀 I’m interested in coding in general
 - 🌱 I’m currently learning python for machine learning and app
 - 💞️ I’m looking to collaborate on anythings im curious as hell
